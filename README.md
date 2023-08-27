@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShubhamRana555
-- 👀 I’m interested in Machine Learning, DevOps domain
+- 👀 I’m interested in Machine Learning and DevOps domain
 - 🌱 I’m currently learning cloud technologies in DevOps domain
 - 💞️ I’m looking to collaborate on ML and DevOps projects
 - 📫 How to reach me, social media link - https://www.linkedin.com/in/shubham-rana-b20b74229/
